@@ -1,0 +1,9 @@
+[
+  {
+    "key": "cmd+shift+c",
+    "command": "workbench.action.tasks.runTask",
+    "args": {
+      "task": "AS3: run"
+    }
+  }
+]

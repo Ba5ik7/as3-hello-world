@@ -1,0 +1,12 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "\\.(as|xml)$",
+        "cmd": "bash -lc './build.sh'"
+      }
+    ]
+  },
+  "files.autoSave": "off",
+  "as3mxml.sdk.framework": "/Users/ba5ik7/Documents/FLEX" // optional; manual save triggers builds
+}
